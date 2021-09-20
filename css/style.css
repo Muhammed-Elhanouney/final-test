@@ -167,6 +167,7 @@ h4{
 
  .foot h5{    
     color: white;
+    text-align: right;
     }
 
     .fa-whatsapp:hover{
@@ -205,6 +206,8 @@ h4{
     color: black;
     text-decoration: none;
     }
+
+    
 
     @media screen and (max-width: 600px){
         /* .h-hero{
